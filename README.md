@@ -18,4 +18,5 @@ The Universal Approximation Theorem's approach given in this notebook is based o
 
 
 # Tools used
+Jupyter's Notebook with libraries such as Sympy, Numpy, Pandas and Pytorch
 
